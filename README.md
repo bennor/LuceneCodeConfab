@@ -1,4 +1,4 @@
 LuceneCodeConfab
 ================
 
-The code from Eric's talk on Lucene because he's afraid of GitHub.
+This is a demo of basic Lucene.Net functionality.
